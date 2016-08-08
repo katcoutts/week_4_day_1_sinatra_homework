@@ -7,7 +7,6 @@ body {
   background: linear-gradient(#ff9966, #ff6666);
   background-repeat: no-repeat;
   height: 100%;
-  margin:0;
   text-indent: 50px;
 }
 
@@ -23,18 +22,16 @@ a {
 
 a:hover{
   color: #990099;
-  align: center;
 }
 
 .mydiv {
     text-align: center;
-    margin-left: -100px;
+    margin-left: -50px;
 }
 
 h1 {
   color: #333399;
   text-align: center;
-  text-indent: 0;
 }
 
 span {
