@@ -1,0 +1,50 @@
+html{
+  height: 100%;
+}
+
+body {
+  font-family: "Arial Black", Gadget, sans-serif;
+  background: linear-gradient(#ff9966, #ff6666);
+  background-repeat: no-repeat;
+  height: 100%;
+  margin:0;
+  text-indent: 50px;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  padding: 2em;
+  margin: -2em;    
+  z-index: 1;   
+}
+
+
+a:hover{
+  color: #990099;
+  align: center;
+}
+
+.mydiv {
+    text-align: center;
+    margin-left: -100px;
+}
+
+h1 {
+  color: #333399;
+  text-align: center;
+  text-indent: 0;
+}
+
+span {
+  color: #333399;
+  font-style: italic;
+}
+
+img {
+  margin: 50px auto;
+  display: block;
+  border-radius: 50px;
+  height: 200px;
+}
